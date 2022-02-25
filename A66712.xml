@@ -1,0 +1,540 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Honest plain dealing, or, Meditations and advertisements offered to publick consideration by John Winter ...</title>
+            <author>Winter, John, 1621?-1698?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 80 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A66712</idno>
+            <idno type="STC">Wing W3080</idno>
+            <idno type="STC">ESTC R38147</idno>
+            <idno type="EEBO-CITATION">17197409</idno>
+            <idno type="OCLC">ocm 17197409</idno>
+            <idno type="VID">106176</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A66712)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 106176)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1624:60)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Honest plain dealing, or, Meditations and advertisements offered to publick consideration by John Winter ...</title>
+                  <author>Winter, John, 1621?-1698?</author>
+               </titleStmt>
+               <extent>[4], 31 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by A.M. and are to be sold by William Oliver in Norwich,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1663.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>At head of title: Aplōz kai kalōz [Greek translitereated]</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Meditations.</term>
+               <term>Devotional literature.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-12</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:106176:1" rendition="simple:additions"/>
+            <p>HONEST PLAIN DEALING: OR, MEDITATIONS AND ADVERTISEMENTS OFFERED To Publick Conſideration. By JOHN WINTER, Curate of <hi>Eaſt Dearham</hi> in <hi>Norff.</hi>
+            </p>
+            <q>
+               <p>If I forget thee, oh Jeruſalem, let my right hand forget her cunning,</p>
+               <bibl>
+                  <hi>Pſal. 137.5.</hi>
+               </bibl>
+            </q>
+            <q>
+               <p>Qui nòn vetat peccare, cùm poſſit, jubet.</p>
+               <bibl>
+                  <hi>Sen. Tro.</hi>
+               </bibl>
+            </q>
+            <p>
+               <floatingText xml:lang="eng" type="license">
+                  <body>
+                     <p>
+                        <hi>Imprimatur.</hi>
+                     </p>
+                     <closer>
+                        <dateline>
+                           <hi>Ex Aed.</hi> Lambeth. <date>May 10. 1663.</date>
+                        </dateline>
+                        <signed>Guil. Brabourn. <hi>S. S. T. P. R<hi rend="sup">mo</hi>. in C<hi rend="sup">to</hi>. Patri ac D. D. Archi-Epiſc.</hi> Cant. <hi>Sacellantus Domeſticus.</hi>
+                        </signed>
+                     </closer>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>A. M.</hi> and are to be ſold by <hi>William Oliver,</hi> next Doore to the Caſtle and Lion in <hi>Norwich.</hi> 1663.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:106176:2"/>
+            <pb facs="tcp:106176:2"/>
+            <head>To the Reader.</head>
+            <p>
+               <seg rend="decorInit">L</seg>Iving in an Age for the purpoſe, amongst many I have alſo adventured a little Inke and Paper. I ſhould be conſcious to my ſelf of negligence, unleſs I ſhould do ſomething of this nature; and of folly, ſhould I do much, in a time, wherein the Preſs daily groans with ſuperfaetations of Wit and Learning.</p>
+            <p>My preſent buſineſs is, neither to pleaſe the curioſity of Cri<g ref="char:EOLhyphen"/>ticks, not to pretend an Addition to the Judicious; but to better the minds, and inform the judgments of the Generality, whoſe Genius is moſt ſutable to my plain Pen, and mean abi<g ref="char:EOLhyphen"/>lities.</p>
+            <p>And whereas of other Authors, ſome aime at florid Elo<g ref="char:EOLhyphen"/>quence, ſome at ſpruce facetious Conceits, and others at ſub<g ref="char:EOLhyphen"/>lime Myſteries: my deſign is meerly, to ſpeak to every capa<g ref="char:EOLhyphen"/>city, in an upright way, and downright terms, the words of truth and honeſty.</p>
+            <p>Nevertheleſs, I do not utterly deſpaire to give ſome ſatisfa<g ref="char:EOLhyphen"/>ction, to ſome of the beſt rank of Approbations. A worthy Friend will make a ſhift, to carve himſelf content, out of a few broken Diſhes of common Meat, ſet before him with a good Heart, and true Wellcome. It is true, <hi>One mans meat
+<pb facs="tcp:106176:3"/>is another mans bane;</hi> and it is poſsible, that ſome of my Fragments will diſpleaſe ſome Palates. And much good may it do them; it is ſuch as I was able to affoard them.</p>
+            <p>Some perhaps may think it ſtrange, that I come abroad without a Patron. But of this (not to ſay that Patrons are not ſo plentifull as Guardian Angels) take theſe two Reaſons: Firſt, The Work needs not any, as it is juſt; Secondly, It deſerves none, as it is ſmall. And (as <hi>Cato</hi> ſaid of Statues) I had rather men ſhould ask, why I had none? than, why I had any?</p>
+            <p>Protected therefore by God Almighty, I humbly offer this poor Trifle to Publick View; whereby may I do any ſervice to God, the Church, the King, and the People; (as I heartily wiſh) it is enough for</p>
+            <closer>
+               <dateline>
+                  <hi>Eaſt Dearham,</hi> 
+                  <date>Feb. <hi>21. 1662. Norff.</hi>
+                  </date>
+               </dateline>
+               <signed>John Winter.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="tract">
+            <pb n="1" facs="tcp:106176:3"/>
+            <head>MEDITATIONS AND ADVERTISEMENTS.</head>
+            <p>
+               <seg rend="decorInit">M</seg>Editation is a nimble excurſion of the ſoul from the ſuburbs of this world, to the Court of Heaven; a looſe from the reynes of the fleſh, and the curb of terrene concernments; a momentany manumiſſi<g ref="char:EOLhyphen"/>on from the bondage of mortality; a lawfull ma<g ref="char:EOLhyphen"/>gical charme, which without villany, or treaſon, makes the beg<g ref="char:EOLhyphen"/>gar a Prince, and the Prince a beggar.</p>
+            <p>And bleſſed, and for ever praiſed be he,<note place="margin">2 Cor. 8.9.</note> who became poor to make us rich; through whoſe grace, we enjoy by contemplation, what nature hath denied us in actual poſſeſſion: this worlds good, the next worlds goodneſs.</p>
+            <p>In this a retired ſolitude excells humane ſociety; and what is rare in the multitude, a man alone may compaſs; according to <hi>Pyrrho</hi>'s practice: who being asked what he did by himſelf, an<g ref="char:EOLhyphen"/>ſwered,<note place="margin">Laert.</note> 
+               <hi>Meditor eſſe probus,</hi> I ſtudy how to be honeſt.</p>
+            <p>Whatſoever is meant by S<hi rend="sup">t</hi> 
+               <hi>Peters</hi> Cope, it is a great bleſſing to live within S<hi rend="sup">t</hi> 
+               <hi>Pauls</hi> Scope; as poor, yet making rich;<note place="margin">2 Cor. 6.10.</note> as ha<g ref="char:EOLhyphen"/>ving nothing, yet poſſeſſing all things. If a cup of cold water be a largeſs worthy of a Diſciples acception, and Chriſts recogniti<g ref="char:EOLhyphen"/>on; then having food and rayment, I muſt not only be content,<note place="margin">Mat. 10. laſt.</note> but think my ſelf very rich, much dignified by God, and even for this exceedingly obliged.</p>
+            <div type="part">
+               <pb n="2" facs="tcp:106176:4"/>
+               <head>Merit and Reward.</head>
+               <p>WHen I had leſs wit, and worth than now, (and that is too little of all conſcience) obſerving how many ſet the Cart before the Horſe; how they looked to catch the bird without beating the buſh; and to reap reward, where they ne<g ref="char:EOLhyphen"/>ver ſowed pains; it put me into a re-cogitation, how my parts and endeavours ſhould be conſiderably gratified. But haply and happily falling upon the words of the Apoſtle, where he enjoyn<g ref="char:EOLhyphen"/>eth Children to requite their Parents;<note place="margin">2 Tim. 5.4.</note> by finding my ſelf unable to ſatisfie that particular, I found my ſelf ſatisfied in all particu<g ref="char:EOLhyphen"/>lars, for all my paſt and future poſſible labours. For he who can<g ref="char:EOLhyphen"/>not requite his natural Parents, can much leſs ſtrike off accompts with God and the Church. I can never do, or ſuffer enough for that God, who hath done and ſuffered ſo much for me; nor take ſufficient pains and care, in, and for that Chriſtian Church, which took the care and pains to make me a Chriſtian.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>†</hi> A. a. b.</head>
+               <p>THus uſually begin our Engliſh children to learn to read. The Chriſtians Primmer, and the Turks Alcoran are nothing a<g ref="char:EOLhyphen"/>like in their face.</p>
+               <p>
+                  <hi>Train up a childe in the way he ſhould go,</hi>
+                  <note place="margin">Prov. 22.6.</note> (ſaith <hi>Solomon</hi>) <hi>and when he is old he will not depart from it.</hi> Chriſt is the way, the truth, and the light; and he that will come to him, muſt go by the croſs. A croſs in the way directs the Paſſenger; and the croſs guides the Chriſtian ſchollar. <hi>Schola crucis, ſchola lucis,</hi> the croſs teacheth true wiſedom; and true wiſedom teacheth how to bear the croſs: without which proficiency, a man may have cauſe to ſay with <hi>Nero, Mallem neſciſſe literas,</hi> I had rather never to have known letters.</p>
+               <p>Certainly, it is neither falſe Latine, nor bad Diſcipline, to teach a child to ſay, <hi>God be my ſpeed,</hi> before he pronounceth his <hi>A. B. C.</hi> And even the greateſt Clerks may gather this leſſon out of their firſt Elements, namely, that the true end of all learning,
+<pb n="3" facs="tcp:106176:4"/>and its utmoſt perfection, is to know <hi>Chriſt, and him crucified.</hi>
+               </p>
+               <p>What Chriſtians ever did wear in their foreheads, that (I think) their Books without offence may bear in their Frontiſ<g ref="char:EOLhyphen"/>pieces. For Chriſt, who would have us to own his Croſs, did never declare that we ſhould diſown, or be aſhamed of the Sign of it.</p>
+               <p>Prophaneneſs is no antidote for ſuperſtition, who vilifies what another hath too much magnified, doth not rectifie, but multiply abuſes. For my part, as I believe the more pure and Primitive Chriſtians, did not make a magicall ſpell of the Sign of the Croſs to fright the Devill: ſo I verily conceive, that they never thought that the Devil could have frighted Chriſtians, from the laudable uſe of the Sign of the Croſs.</p>
+               <p>I love not to ſee zeal ſelf-conſumed in fruitleſs oppoſition, nor retrograde devotion. I wiſh even the Antipodes Chriſtians, but would not have Chriſtians become Antipodes in their opini<g ref="char:EOLhyphen"/>ons.</p>
+               <p>That <hi>Conſtantine</hi> the great ſaw the Sign of the Croſs in the aire,<note place="margin">Soc. <hi>Eccl. hiſt.</hi> l. 1. c. 2.</note> and theſe words with it, <hi>In hoc Signo vinces,</hi> in this Signe thou ſhalt overcome, as a preamble to his converſion, we have ſo fair a tradition, and ſo venerable authority for it; that modeſty and good morality dare not doubt it. To which may be added, the ſign of the Son of man coming to Judgement,<note place="margin">Matth. 24.30.</note> interpreted by the ancient Fathers, to be the Sign of the Croſs; which expoſition was never yet by the Church exploded for heretical.</p>
+               <p>Whether that be the Sign there meant, God knows; and that day ſhall reveal it. But this is certain, that the enemies to the Croſs, have been the greateſt enemies to Learning, and the ene<g ref="char:EOLhyphen"/>mies to Learning, have been the greateſt enemies to the Croſs. <hi>Et crimine ab uno diſce omnes,</hi> And take one example for all in <hi>Julian</hi> the Apoſtate, who profiting above moſt his contempora<g ref="char:EOLhyphen"/>ries, did by his learning find out, That there was no directer way to overthrow the Chriſtian Religion,<note place="margin">Soc. <hi>l.</hi> 3. <hi>c.</hi> 10.</note> than by preventing their literate education: And therefore he forbade Chriſtians the uſe of humane learning, and the reading of prophane Au<g ref="char:EOLhyphen"/>thors, leaſt they ſhould beat the Pagans with their own wea<g ref="char:EOLhyphen"/>pons.</p>
+               <p>Oh how would Infidels have gloried in thoſe dayes, could they have ſeen Chriſtians abhor the Sign of the Croſs; or quarrel
+<pb n="4" facs="tcp:106176:5" rendition="simple:additions"/>with one another about it! Oh let not the Sign of his Croſs be any cauſe of Chriſtians ſeparation from one another;<note place="margin">Eph. 2.16.</note> ſeeing Chriſt by his Croſs intended and wrought the worlds general re<g ref="char:EOLhyphen"/>conciliation.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <g ref="char:V">Ʋ</g>t litera verba, ſic mores homines.</head>
+               <p>AS letters make words, ſo manners make men; education like pronunciation, (for the moſt part) giving each man his accent, whereby he is either <hi>asper, aut lenis,</hi> fierce or gentle.</p>
+               <p>The praiſe of Literature, which the Boy at Schoole cant's in jeſt, the man afterwards proves and approves in earneſt; <hi>emollit mores, nec ſin it eſſe feros,</hi> it ſoftens the wild nature of men, and ſuffers them not to be brutiſh. It is a weighty treaſure without a burthen; it is <hi>gladius delphicus,</hi> an engine fit for all occaſions; in proſperity an ornament, in adverſity a refuge.</p>
+               <p>This benefit <hi>Ariſtippus</hi> (as he ſaid) reaped by Philoſophy,<note place="margin">Laert.</note> that he could ſpeak freely to all men; to the great men without fear or flattery, and without pride to the poor. And this com<g ref="char:EOLhyphen"/>fort <hi>Dionyſius junior</hi> ſound, when he was depoſed, that Philoſo<g ref="char:EOLhyphen"/>phy had enabled him to bear the check of fortune.</p>
+               <p>And as in letters,<note place="margin">Plut.</note> there are conſonants and vowels, liquids and mutes; ſo among men, ſome more liberally talkative, others more deeply reſerved: And the learned <hi>Solomon</hi> points to the golden mean, ſaying; <hi>There is a time to keep ſilence, and a time to ſpeak;</hi>
+                  <note place="margin">Eccl. 3.7. &amp; chap. 8. ver. 5.</note> 
+                  <hi>And a wiſe mans heart will diſcern both time, and judge<g ref="char:EOLhyphen"/>ment.</hi>
+               </p>
+               <p>Indeed learning inſtructs a man to both, as <hi>Socrates</hi> witneſ<g ref="char:EOLhyphen"/>ſeth;<note place="margin">Steb.</note> who demanded of his nimble tongued Shollar <hi>Carco</hi> a dou<g ref="char:EOLhyphen"/>ble price: one to learn him how to ſpeak well; another to know when to hold his peace.</p>
+               <p>One with another do well, learning and good manners; and we ſee ſcarce any who hate the firſt, attain the latter. But on the contrary, many who would not be brought to their <hi>A. B. C.</hi> have brought themſelves to <hi>Plautus</hi> his long letter, that is, in plain terms, to the Gallows; and though formerly they did de<g ref="char:EOLhyphen"/>ſpiſe the Calling, yet then they would gladly have had the bene<g ref="char:EOLhyphen"/>fit of the Clergy; which favour of the Law ſpeaks as highly for
+<pb n="5" facs="tcp:106176:5"/>the honour of Learning, as can be thought; ſeeing it ſuppoſeth that malefactour onely capable of mercy, who can read; and Learning to be as much worth as a mans life.</p>
+               <p>The <hi>Barbarian</hi> boy, who had learned only to ſay (like a Par<g ref="char:EOLhyphen"/>rot) <hi>Alpha, Beta, Gamma,</hi>
+                  <note place="margin">Coel. Rh.</note> by being three or four dayes at <hi>Athens,</hi> at his return into his own Countrey was applauded, car<g ref="char:EOLhyphen"/>ried in triumph, and judged by the ignorant to excell an eminent Orator.</p>
+               <p>Whether a man ſhould more pity the caſe of ſuch an Oratour, admire the confidence of ſuch a Novice, or laugh at the folly of ſuch an Auditory, may be a difficulty. He hath a hard task, that muſt both tell his tale, and find ears; or preach like venerable <hi>Bede</hi> to a heap of ſtones, in hope that they ſhall ſay <hi>Amen</hi> to him.</p>
+               <p>It is not long, ſince <hi>Engliſhmen</hi> were as mad as thoſe <hi>Barbari<g ref="char:EOLhyphen"/>ans,</hi> preferring pitifull boyes before skilfull Orators, before Grave Divines, and Reverend Biſhops. Yea, ſuch a nauſeous loathing had debilitated the ſtomacks, and vitiated the palates of the many, cauſing a diſguſt, reluctancy, and belching againſt all Sciences and Languages; that within a few years (without a ſovereign remedy) ignorance would have gotten the upper hand ſo far in this Nation, that who ſo ſhould have uttered <hi>Alpha, Beta, Gamma,</hi> ſhould either have been adored (as that boy was) for a profound Scholar; or elſe have been ſtoned to death like D<hi rend="sup">r</hi> 
+                  <hi>Lamb</hi> for a Conjurer.</p>
+               <p>Oh, but have a care of the Language of the Beaſt; and that (they ſay) is Latine. And yet I believe, none of them know, what Language the Beaſt ſpake, which <hi>Balaam</hi> rode on. I dare ſay, it was not Latin.</p>
+               <p>But to be ſerious; the wiſe <hi>Alphonſus</hi> being told of a certain King of <hi>Spain,</hi> who depraved and ſpake ill of Learning, anſwered, <hi>Vox illa Bovis,</hi> that is the language of a beaſt and not of a King. And he who cals upon <hi>Kings to be wiſe, and Judges to be learned,</hi>
+                  <note place="margin">Pſ. 2. Pſ. 32.</note> commands the people <hi>not to be like horſe and mule which have no underſtanding; whoſe mouth muſt be holden with bit and bridle,</hi> leſt they fail upon men.</p>
+               <p>The language of the Beaſt conſiſts not in the National Dialect wherein men ſpeak, but in the unwholſome matter which they utter. To blaſpheme Gods ſacred Attributes, or to
+<pb n="6" facs="tcp:106176:6"/>vilifie his Ordinances, or to contemn his gifts, this is the language of the beaſt.</p>
+               <p>Chriſts Croſſe bare the Inſcription in <hi>Hebrew,</hi>
+                  <note place="margin">Jo. 19.20. Rev. 7.9.</note> 
+                  <hi>Greek,</hi> and <hi>Latine;</hi> and the Kingdom of Heaven is a ſelect extraction out of all tongues and people. And as the diviſion of tongues in the Old Teſtament is recorded for a judgment on the world:<note place="margin">Gen. 11. Act. 2. 2 Cor. 12.</note> ſo the gift of many tongues in the New, for a mercy to the Church. What confounded <hi>Babel,</hi> ſerves to build up <hi>Sion.</hi>
+               </p>
+               <p>It is no marvel, though blind men cannot judge of co<g ref="char:EOLhyphen"/>lours,<note place="margin">Tull. <hi>Tuſcu.</hi> 5.</note> and fools deſpiſe inſtruction. <hi>Democritus,</hi> who pull'd out his eyes to ſtrengthen his wit, did in that ſhew neither wit, nor manners; and I wiſh no man to follow his example, unleſſe he thinks it a happineſſe to be led by the noſe.</p>
+               <p>Much Learning did not make S<hi rend="sup">t</hi> 
+                  <hi>Paul</hi> mad; but too little made <hi>Feſtus</hi> think ſo: And though <hi>Feſtus</hi> knew not how to value S<hi rend="sup">t</hi> 
+                  <hi>Paul</hi> nor his learning;<note place="margin">Act. 26.</note> yet S<hi rend="sup">t</hi> 
+                  <hi>Paul's</hi> learning taught him to give a due reſpect to noble <hi>Feſtus.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <q>
+                  <l>Good morrow; Good night; God ſave you;</l>
+                  <l>God ſpeed; and God be with you.</l>
+                  <l>By your leave neighbour Quaker.</l>
+               </q>
+               <p>THeſe are the ancient forms of ſalutation. This was the old way of educating and principling man, woman and child. And the old way is the good way.<note place="margin">Jer. 6.16.</note> The very words themſelves are ſo ſound and hearty, that none but a <hi>Judas,</hi> a damnable hypocrite can trunk them forth, and not intend them.</p>
+               <p>He who knew the heart ſaid, <hi>Out of the abundance of the heart, the mouth speaketh;</hi>
+                  <note place="margin">Mat. 12.34.</note> by which rule, that man can have but a ſmall ſtock of good in his hear, that cannot afford to beſtow a good word on his neighbour, or to breath out a bleſſing on them he meets with.</p>
+               <p>
+                  <hi>Belles paroles n'eſcorchent pas la langue,</hi> Good words hurt not the tongue, ſaith the <hi>French</hi> Monſieur. And he who told us, <hi>That evil words corrupt good manners,</hi>
+                  <note place="margin">Cor. 15.</note> did thereby intimate that good ſpeeches would be a proper means to refine them. A
+<pb n="7" facs="tcp:106176:6"/>brisk gale of wind purgeth the foggy air, and makes it health<g ref="char:EOLhyphen"/>full. God heareth us in, and helps us by our mutual pray<g ref="char:EOLhyphen"/>ers:<note place="margin">Pſal. 109.16.</note> but he that loveth not bleſſing, it ſhall be farre from him.</p>
+               <p>Becauſe the <hi>Phariſees loved ſalutations in the markets,</hi> may not good Chriſtians uſe them in their occaſional congreſſes? Yes ſurely. For Chriſt did not blame them for uſing,<note place="margin">Mat. 23.7.</note> but for their ambitious affectation of them. They loved to take, and not to give; to receive honour of all, and to give honour to none but men of their own ſect: And ſo do they, who now deny reſpect to others. And <hi>[Salute no man by the way]</hi> is a Text as much tortur'd as the other to defend a rude Zealot;<note place="margin">Luk. 10.4.</note> and I wiſh the Context may go along with him, (if he delights it) <hi>neither purſe, nor ſcrip, nor ſhoes.</hi> I know not whether our wild people ground their humour more upon our Saviours words,<note place="margin">2 King. 4.29.</note> or on the Prophet <hi>Eliſha</hi>'s to his unlucky ſervant; but who ſo ſhall look well on their faces, will think them rather to reſemble <hi>Gehezi,</hi> than any of the ſeventy Diſciples.</p>
+               <p>
+                  <hi>Gehezi</hi> was ſent to raiſe the <hi>Shunamites</hi> child to life; and the words to him ſignified no more but all poſſible haſte in his journey: And the particular exception for that time, ſhewes the reſtraint to be contrary to the Prophets cu<g ref="char:EOLhyphen"/>ſtome.</p>
+               <p>The like is to be ſaid of Chriſts Commiſſion to the Se<g ref="char:EOLhyphen"/>venty; a caſe that will ſquare to none now. For they were ſent to the Cities and Villages of <hi>Judea.</hi> The time was not then come, <hi>Salutem in Domino dicere Gentibus,</hi> to ſpeak health and ſalvation in the Name of the Lord to all Nations. Then was no time to do it; but now there is no colour for omit<g ref="char:EOLhyphen"/>ting it. Beſides, even then, they who were prohibited con<g ref="char:EOLhyphen"/>gratulations by the way, were enjoyned their <hi>Ave,</hi> at their jour<g ref="char:EOLhyphen"/>neys end, ſaying, <hi>Peace be to this houſe;</hi> and that is in effect, <hi>God be here.</hi>
+               </p>
+               <p>And let us take good examples along with ſolid reaſon, and then we have Gods holy Angels, and good men, his faith<g ref="char:EOLhyphen"/>full ſervants, practical proofs for theſe our cuſtomary ſaluta<g ref="char:EOLhyphen"/>tions.</p>
+               <p>The Angel ſaluted <hi>Gideon</hi> at his good Husbandry, threſhing wheat, <hi>Dominus tecum, The Lord is with thee,</hi>
+                  <note place="margin">Jud. 6.12,</note> 
+                  <hi>thou mighty man
+<pb n="8" facs="tcp:106176:7"/>of valour.</hi> The Angel <hi>Gabriel</hi> before he delivered his tranſcen<g ref="char:EOLhyphen"/>dent meſſage to the bleſſed Virgin,<note place="margin">Luc. 1.28.</note> ſaluted her with a <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>Hail thou that art highly favoured, the Lord is with thee.</hi> The holy man <hi>Boaz</hi> ſaluted his Reapers,<note place="margin">Ruth 2.4.</note> ſaying, <hi>The Lord be with you;</hi> and they re-ſaluted him, ſaying, <hi>The Lord bleſſe thee.</hi> There was his <hi>God ſpeed;</hi> and their welcome.</p>
+               <p>And to urge no more particulars, that the general practice of the Church was thus, S<hi rend="sup">t</hi> 
+                  <hi>Paul</hi>'s Epiſtles both firſt and laſt do de<g ref="char:EOLhyphen"/>clare; and eſpecially the cloſe of that to the <hi>Romans.</hi>
+               </p>
+               <p>And as good Angels and good men were ever free and frequent in ſalutiferous benedictions; ſo on the contrary, the Devil never uſed any: not that he loves plain dealing, but hates good man<g ref="char:EOLhyphen"/>ners; encountring even our bleſſed Saviour without all reſpect, in the familiar terms,<note place="margin">Mat. 4.</note> 
+                  <hi>Thou,</hi> and <hi>Thee.</hi>
+               </p>
+               <p>Our ſalutations are mutual precations, and therefore never unſeaſonable; becauſe there is not a minute in our lives, wherein we ſtand not in need of Gods mercy, and one anothers prayers.</p>
+               <p>
+                  <hi>Sodom</hi> ſaw the morning Sunne, and thought themſelves ſure of the day; but a ſhowr of fire and brimſtone brought on them an eternal night before noon. There they wanted the Angels and <hi>Lots Good morrow,</hi>
+                  <note place="margin">Gen. 19.</note> 
+                  <hi>God ſave you,</hi> and, <hi>God be with you.</hi>
+               </p>
+               <p>The <hi>Egyptians</hi> paſſed away the day and part of the night, and then were overwhelmed in the midſt of the Sea.<note place="margin">Ex. 14.</note> The ſervants of <hi>Job</hi> were working,<note place="margin">Job 1.</note> and his Oxen plowing, when the enemies fell upon them, and made an utter ſpoil of them. They wanted a <hi>God ſpeed,</hi> and <hi>a God be with you.</hi>
+               </p>
+               <p>And whatſoever men think of it, <hi>God ſpeed the Plough</hi> is a ſa<g ref="char:EOLhyphen"/>lutation, which extends from the Prince to the peaſant, and con<g ref="char:EOLhyphen"/>cerns all manner of perſons.<note place="margin">Eccleſ. 5.9.</note> 
+                  <hi>For the profit of the earth is for all; and the King himſelf is ſerved by the field.</hi> And of all other, the Husbandman (in my mind) may juſtly challenge a <hi>God ſpeed,</hi> from my lips; nor dare I deny him: for without his labour I might go fow up my mouth.</p>
+               <p>Nor do I find any debarred the benefit of theſe Chriſtian cour<g ref="char:EOLhyphen"/>teſies, but men perniciouſly, and actually miſchievous; as the profeſſed enemies of the Church:<note place="margin">Pſ. 129.</note> whom the <hi>Pſalmiſt</hi> wiſheth <hi>like the graſſe on the houſe top,</hi> which hath neither mower, nor bind<g ref="char:EOLhyphen"/>er,
+<pb n="9" facs="tcp:106176:7"/>nor paſſenger to ſay, <hi>God speed.</hi>
+                  <note place="margin">2 Ep.</note> And the like reception S<hi rend="sup">t</hi> 
+                  <hi>John</hi> appoints for the heretical ſeducer.</p>
+               <p>To words men uſually adde geſtures, to beautifie, and amplifie their ſalutations; as uncovering and declining the head, bowing the body, and bending the knee. And God who hath command<g ref="char:EOLhyphen"/>ed all men to honour him, hath in a ſubordination commanded us <hi>to honour all men,</hi> 1 Pet. 2.17.</p>
+               <p>As for the manner or outward geſture, the civil cuſtome of a Nation ſhould be a rule to every native; unleſſe men be croſſe<g ref="char:EOLhyphen"/>byaz'd like the Cynick <hi>Diogenes,</hi> who ever contrived to enter in, when the multitude crouded out of the places of publick Conven<g ref="char:EOLhyphen"/>tion; and willed at his death, to be buried contrary to all men, with his face downward, in hope to lie right, when the world ſhould be turned upſide down. I hope by this time his worſhip is laid as he ſhould be.</p>
+               <p>The men of <hi>China</hi> (as ſtories ſay) affecting to be unlike other men, when others pulled off their hats to them, then they pulled off their ſhoes. This was ſomething of complement, though at the wrong end. But this Generation afford us a new ſtrain of Humo<g ref="char:EOLhyphen"/>riſts, who in the morning block their Beavers for all day; and put on their hats to affront their Betters, and ſhame their friends, as Souldiers put on their Helmets to fight with their enemies. And in this they excell the men of <hi>China;</hi> for they had a foot, though not a head to uncover: but theſe have neither head nor foot in their devices, neither hat nor leg; but are compleat Clowns, <hi>Cap a pe.</hi>
+               </p>
+               <p>The Poet telleth us, That it was accounted a capital crime,<note place="margin">Juvenal.</note> even among <hi>Heathens,</hi>
+                  <q>Si juvenis vetulo nòn aſſurrexerat,</q> If a young man had not riſen up, and given honour to his Elder. And therefore in all their Schools, they taught them manners, as well as letters. And that both the one and the other are very good, this is a clear and unanſwerable argument, namely, be<g ref="char:EOLhyphen"/>cauſe none have them by nature, nor attain them without inſtru<g ref="char:EOLhyphen"/>ction and induſtry. Such reſpect therefore had <hi>Alexander</hi> the Great for his Tutor, that he publickly profeſſed, <hi>He was more engaged to</hi> Ariſtotle <hi>his Tutor for his education, than to King</hi> Philip <hi>his Father, for his life and Kingdome.</hi> And ſcarce any
+<pb n="10" facs="tcp:106176:8"/>thing lieth a greater blot upon the memory of that accurſed and hypocriticall Tyrant <hi>Nero,</hi>
+                  <note place="margin">Anton. <hi>in</hi> Me<g ref="char:EOLhyphen"/>liſſ. <hi>&amp;</hi> Max.</note> than the murther of his Tutor <hi>Seneca.</hi>
+               </p>
+               <p>With what ſtrict diſcipline, in how great humility, and with what obſervance of their Betters the <hi>Jews</hi> educated their youth, <hi>Philo</hi> the <hi>Jew</hi> and others have declared; namely, that the Ma<g ref="char:EOLhyphen"/>ſters ſitting in ſeats for the purpoſe, the Scholars ſate upon the ground at their Maſters feet, inclining themſelves, and hum<g ref="char:EOLhyphen"/>bling themſelves even to the duſt. And that great Doctor of the <hi>Gentiles</hi> S<hi rend="sup">t</hi> 
+                  <hi>Paul</hi> declareth plainly, that he had ſuch an education, <hi>being brought up at the feet of Gamaliel.</hi>
+                  <note place="margin">Act. 22. Luke 10.39.</note> And <hi>Mary ſate at Je<g ref="char:EOLhyphen"/>ſus feet, and heard his words.</hi>
+               </p>
+               <p>
+                  <hi>Telecrus</hi> being asked,<note place="margin">Plut.</note> why the <hi>Spartans</hi> made their children ſhew ſuch great reſpect to ſtrangers? anſwered, to imprint in them the more exact obedience to their parents, And we find by ſad experience, that from irreverence towards ſtrangers, peo<g ref="char:EOLhyphen"/>ple have proceeded to contemn their Parents, Natural, Spiri<g ref="char:EOLhyphen"/>tual, and Civil; contrary to the tenor of the fifth Command<g ref="char:EOLhyphen"/>ment.</p>
+               <p>And that is not all the miſchief; but by keeping on their hats to the diſhonour of man, many have gotten a habit of di<g ref="char:EOLhyphen"/>ſhonouring God, covering their heads at prayers, thankſ<g ref="char:EOLhyphen"/>givings, and the like holy exerciſes; a thing flatly condemned in the word of God, by the Apoſtle who ſaith, <hi>That every man praying,</hi>
+                  <note place="margin">1 Cor. 11.3, 4.</note> 
+                  <hi>or propheſying, with his head covered, diſhonoureth his head.</hi> And that Head of every man, which is thereby diſhonoured, is Chriſt.</p>
+               <p>Let men then learn to walk more humbly with their God, and more reſpectfully to men, who bear the Image of God; and that the rather, becauſe God Almighty (if men rightly conſider it) hath exceedingly dignified the nature of man, by his Sonne Chriſt Jeſus his Incarnation. For ſhame at leaſt, let men uncover their heads, and ſhew their faces to the ho<g ref="char:EOLhyphen"/>nour of God; leſt God cover them with ſhame and confuſion of face.</p>
+            </div>
+            <div type="part">
+               <pb n="11" facs="tcp:106176:8"/>
+               <head>Grace before, and Grace after meat.</head>
+               <p>THere is as much need of good manners, as of our daily bread, and more of Grace than of meat. Grace may be without meat; and that is no fault of the perſon: But to take meat without Grace, is both a ſinne, and a plague. He is worſe than a beaſt, that knoweth not his keeper. Ingratitude is a mon<g ref="char:EOLhyphen"/>ſter it ſelf, and it makes a man a monſter.</p>
+               <p>Men flying to their meat tooth and nail, without benediction and thankſgiving, <hi>have</hi> (as we ſay) <hi>more ſauce than pig;</hi> and yet are indeed more hogs than men. They are like <hi>Ulyſſes</hi> his companions, who were turned into ſwine by <hi>Circes</hi> inchantment.</p>
+               <p>And of all unclean beaſts, none but ſwine, trampling pearls under their feet, and renting their feeder,<note place="margin">Mat. 7.</note> are bad enough to parallel thoſe tongue-tied perſons, who are paſt grace.<note place="margin">Pſ. 104. Pſ. 127.</note> For <hi>the young Lions ſeek their meat from God; and the young ravens call upon him that feeds them.</hi>
+               </p>
+               <p>It is an uſual ſaying among men, <hi>That many gape for that which they never have; and that they are never ſure of their meat, untill it be in their belly.</hi> But indeed without Gods bleſſing procured by prayer, they are ſure of nothing. Their <hi>table may become a ſnare; death may be in the pot;</hi> thinking to devour a <hi>Camel</hi> of dainties, they may ſtrain and be choked with a <hi>gnat.</hi> Once a great perſon periſh<g ref="char:EOLhyphen"/>ed by a little fly in a draught of water; which I do not cite uncha<g ref="char:EOLhyphen"/>ritably, as a judgment upon him, but as a motive to piety for us.</p>
+               <p>We may have meat before our eyes, and not have power to taſte it; as that diſtruſtfull Lord had in the gate of <hi>Samaria.</hi>
+                  <note place="margin">2 Kin. 7.2.</note> Men may have meat in their mouths, and not live to ſwallow it: as the <hi>Iſrae<g ref="char:EOLhyphen"/>lites</hi> fared with their dainty birds: the plague of God being fit ſauce for thoſe Quails, which were obtained by murmuring,<note place="margin">Num. 11.</note> and not by prayer; and ſacrificed to luſtfull wantons, and not beſtow<g ref="char:EOLhyphen"/>ed upon hungry ſouls. Yea, men may have meat in their ſtomacks, and not digeſt it; and then their diſgorge will be more of pain, than their ingurgitation was of pleaſure.</p>
+               <p>The <hi>Jews</hi> not unmindfull of theſe contingencies,<note place="margin">Druſius. P. Fagius.</note> and of the ne<g ref="char:EOLhyphen"/>ceſſary concurrence of divine influence upon the weak elements of our vital ſubſiſtence, had not only their grace before and after
+<pb n="12" facs="tcp:106176:9"/>meat; but alſo a diſtinct bleſſing for the Cup, and another for the bread.</p>
+               <p>In their grace after meat, as they gave thanks for their preſent food, ſo they forgate not to mention other both corporal and ſpiritual mercies, as their deliverance from <hi>Egypt,</hi> and Gods Co<g ref="char:EOLhyphen"/>venant; cloſing with a prayer for the proſperity of all <hi>Iſrael,</hi> for a bleſſing on mount <hi>Sion,</hi> and for the attainment of life everla<g ref="char:EOLhyphen"/>ſting. Upon which cuſtom of theirs, when we ſeriouſly reflect (conſidering likewiſe that Tyrants bring people to eat their own dung, and drink their own piſſe, whereas under gracious Princes every man eats the fruit of his own fig-tree, and drinks the water of his own ciſtern) we ſhall have juſt cauſe to applaud and imitate the practice of our fore-fathers; who taught their children at the end of their thankſgiving to pray, <hi>God ſave his Church, our King and Realm, and ſend us peace through Jeſus Chriſt our Lord. Amen.</hi>
+               </p>
+               <p>And as it becometh well the juſt to be thankfull;<note place="margin">2 Tim. 3.2.</note> ſo unthank<g ref="char:EOLhyphen"/>full perſons are ranked and placed between diſobedient to pa<g ref="char:EOLhyphen"/>rents, on the one hand; and unholy on the other. Prayer and thankſgiving are relatives; and whereſoever petitions precede, there gratefull returns ſhould ſuccede conferred favours. This is evident by our Saviours words concerning the <hi>ten Lepers.</hi>
+                  <note place="margin">Lu. 17.18.</note> They that began alms give thanks for it aſſoon as they have it; and this is the caſe of all Chriſtians, who are taught and commanded to pray, to <hi>Our Father which is in Heaven,</hi> that he <hi>may give us our daily bread.</hi>
+               </p>
+               <p>When <hi>Joſeph</hi> brought his two ſons to ask their Grand-father bleſſing, (where note by the way, that of old, godly perſons taught their children to honour their aged parents, and to crave their bleſſing) the holy man <hi>Jacob</hi> in the form of his benediction,<note place="margin">Gen. 48.15.</note> remembred with thankfulneſſe, how God had fed him all his life long.</p>
+               <p>When <hi>Saul</hi> enquired for <hi>Samuel,</hi> the young maids which went to draw water, told him, that he ſhould find him at the Sacri<g ref="char:EOLhyphen"/>fice, in the high-place, whether the Prophet and the people were to go up to eat.<note place="margin">1 Sam. 9.13.</note> 
+                  <hi>For the people will not eat</hi> (ſaid they) <hi>untill he come; becauſe he doth bleſſe the Sacrifice, and afterwards they eat that be bidden. Iſrael</hi> had their Sacrifices to God; and they had their Love-feaſts among
+<pb n="13" facs="tcp:106176:9"/>themſelves. And <hi>Samuel,</hi> as he was the proper perſon in his time to conſecrate the firſt; ſo where his preſence was, the people thought him meeteſt to bleſs the latter. And ſo well diſciplin'd were that people, that even the poor ſervants that carried wa<g ref="char:EOLhyphen"/>ter, were able to give an accompt of it.</p>
+               <p>And behold a greater than <hi>Samuel,</hi> even Chriſt; who as he was carefull to feed, ſo to teach the multitude: leſt the multi<g ref="char:EOLhyphen"/>tude ſhould be better fed than taught. He being Lord of all, be<g ref="char:EOLhyphen"/>came his own and the peoples Chaplain. For being about to feed at one time five thouſand perſons and upward, and at another time four thouſand, he looked up to heaven, and bleſſed, before he gave a morſell of bread to any Accumbent.<note place="margin">Matth. 14. &amp; chap. 15.</note> By this he gave them <hi>nòn tàm caenam, quàm diſciplinam,</hi> not ſo much corporal food, as ſpiritual furtherance; that people may know whence they have every piece of bread, and whether to render thanks for it. And it were a ſhame for the ſervant to omit this humble duty, ſeeing his Lord and Maſter did perform it.</p>
+               <p>Beſides, ſeeing it is the will of God in Chriſt Jeſus, that we ſhould <hi>in every thing give thanks;</hi>
+                  <note place="margin">1 Theſſ. 5.18.</note> then muſt we not neglect this duty at the perception and reception of our daily neceſſaries. And ſeeing civil cuſtomes tye men to remember their friends and benefactors at their meales; much more doth ſacred duty ob<g ref="char:EOLhyphen"/>liege them then to remember their God, <hi>In whom they live, move,</hi>
+                  <note place="margin">Deut. 6.12.</note> 
+                  <hi>and have their being:</hi> eſpecially conſidering, that the moſt dange<g ref="char:EOLhyphen"/>rous time for men to forget God, is when they have eaten, and are full.</p>
+               <p>Even the heathens eating and drinking, did praiſe their gods, <hi>Ceres</hi> and <hi>Bacchus;</hi> and they are worſe than heathens, who give thanks to none: and they are accurſed, who give glory to any, but to the only true God. The Apoſtles rule is,<note place="margin">1 Cor. 10.31.</note> 
+                  <hi>Whether ye eat or drink, or whatſoever ye do elſe, do all to the glory of God.</hi> And though he indulgeth the weak bretheren as to meats, yet not as to giving of thanks. And if this be a good argument of his,<note place="margin">Rom. 16.4.</note> 
+                  <hi>He that eateth, eateth to the Lord, for he giveth God thanks;</hi> then it will follow, <hi>He that eateth, and giveth not God thanks, eateth not to the Lord.</hi> And they have but an untoward nurſery, that feed the Devil.</p>
+               <p>But now come in our Mutes with a mentall reſervation, and tell us, that though they ſay nothing when they go to meat, yet
+<pb n="14" facs="tcp:106176:10"/>they tickle it with thinking. Oh, they give thanks in their hearts! And is that enough? why then do they not eat onely in their hearts? why do they not chew the cud? why do they not live only by ruminating on diſhes in their thoughts? As they would be loth God ſhould ſo ſerve them; ſo I adviſe them, that they would not ſo ſerve God: And as they would not willingly have the world feed them with ſuch empty diſhes; ſo let not them feed the world with ſuch frothy fancies. Are their mouths made only for meat and drink? If mens lips will do more to ſerve their belly, than to honour their heavenly Lord; is it not clear that their belly is their God? He that giveth man a heart wherewith to believe unto righteouſneſs,<note place="margin">Rom. 10.10.</note> giveth him alſo a tongue, where<g ref="char:EOLhyphen"/>with to make confeſſion unto ſalvation: And where the Lord opens a mans lips,<note place="margin">Pſal. 50.15.</note> that mans mouth will ſhew forth his praiſe.</p>
+            </div>
+            <div type="part">
+               <head>Quiſque ſuam vocationem, Every man look to his Calling.</head>
+               <p>AMbiguous terms need Explication, and evill times Applicati<g ref="char:EOLhyphen"/>on. We live in an age that hath made a great noiſe, and no little ſtir about mens Calling.</p>
+               <p>Calling is either </p>
+               <list>
+                  <item>Civil, or</item>
+                  <item>Sacred.</item>
+               </list>
+               <p>A civil Calling is a ſetled courſe of life, wherein a man is pro<g ref="char:EOLhyphen"/>fita ble to himſelf and the publick; and helps to bear up, after a due proportion, the fabrick of the land of his nativity. And this is beſt done, when every man keeps his ſtation, as a firm ſtud or pillar.<note place="margin">Ar. <hi>Pol. l.</hi> 1.</note> For according to <hi>Ariſtotle,</hi> it is not meet for the ſame man <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, to be a Muſick maſter and a Shooe-maker; and he determines that he muſt be a Rogue by conſe<g ref="char:EOLhyphen"/>quence, who liveth <hi>ſine tribu, ſine lege, ſine lare,</hi> without tribe, without Law, and without a fixed reſidence. And Chriſtian po<g ref="char:EOLhyphen"/>lity herein agrees with humane, according to the Apoſtles rule; <hi>Let every man abide in the ſame calling,</hi>
+                  <note place="margin">1 Cor. 7.20.</note> 
+                  <hi>wherein he was called:</hi> that is, in the ſame calling or trade of life, wherein he was cal<g ref="char:EOLhyphen"/>led to be a Chriſtian. Had this advice been followed, our Church and Kingdome had uninterruptedly unto this day flou<g ref="char:EOLhyphen"/>riſhed.</p>
+               <p>But here was the miſery, and the beginning of forrows; the
+<pb n="15" facs="tcp:106176:10"/>people thought the Lord was not amongſt them, except all the Lords people were Prophets: and many imagined they could not be Chriſtians, except they left their Shops, to get into the Prieſts Desk, and leaped from the Loome into the Pulpit. But God hath now let the world ſee, that they who could well mend Shooes, did but marre the Text; and were utterly unfit to be Scri<g ref="char:EOLhyphen"/>pture-tranſlators.</p>
+               <p>And doth any man ask why thoſe men, who had never any calling from God and the Church, [which two muſt not be ſe<g ref="char:EOLhyphen"/>parated] did notwithſtanding preſume to be Teachers and pub<g ref="char:EOLhyphen"/>lick Preachers? The reaſon is evident; therefore they preſu<g ref="char:EOLhyphen"/>med to teach, becauſe they had never rightly learned: and therefore made they themſelves Preachers, becauſe they ſcorned to be Chriſts Diſciples. <hi>For he hath called us to peace;</hi>
+                  <note place="margin">1 Cor. 7.15. &amp; chap. 14.33.</note> 
+                  <hi>And God is not the author of confuſion, but of peace, as in all the Churches of the Saints.</hi>
+               </p>
+               <p>Sacred or heavenly calling is,</p>
+               <list>
+                  <item>Generall, or</item>
+                  <item>Speciall.</item>
+               </list>
+               <p>The generall call to faith and holineſs, is made to the world by the preaching of the Goſpel, and adminiſtration of the Sacra<g ref="char:EOLhyphen"/>ments.</p>
+               <p>The ſpeciall calling is made by grace wrought in the hearts of men, and that by the operation of the holy Ghoſt, upon the Preach<g ref="char:EOLhyphen"/>ing of the Word, and adminiſtration of the Sacraments. Thus as S<hi rend="sup">t</hi> 
+                  <hi>Aug.</hi> ſaith. <hi>Ex peccato evocat omnes communitèr, ſed ſuos ex<g ref="char:EOLhyphen"/>citat ſingularitèr,</hi> God calls all men generally, but he ſtirs up his own ſingularly.</p>
+               <p>But now the great buſineſs, whereabout many have been trou<g ref="char:EOLhyphen"/>bled, is to know the certainty of their true calling unto bliſs. And indeed this is a weighty Quaere, and requires mature deli<g ref="char:EOLhyphen"/>beration and contemplation. It is not for nothing, that we are called upon, <hi>To give diligence to make our calling and election ſure,</hi> Which making ſure, bears reference to our conſciences,<note place="margin">2 Pet. 1.10.</note> not to Gods purpoſes;<note place="margin">Rom. 11.29.</note> 
+                  <hi>For the calling and gifts of God are without re<g ref="char:EOLhyphen"/>pentance.</hi>
+               </p>
+               <p>In this enquiry, let all perſons beware, that they be not mi<g ref="char:EOLhyphen"/>ſtaken with bare words; as many of late have: who thought e<g ref="char:EOLhyphen"/>very new fangled doctrine, a call from heaven; and inſtability to be a mark of proficiency.</p>
+               <pb n="16" facs="tcp:106176:11"/>
+               <p>Chriſts ſheep will not follow ſtrangers, but flee from them. But many a one (the more pity) by being apt to follow every voice,<note place="margin">Jo. 10.5.</note> have gone to the ſlaughter; like the two hundred in <hi>Jeruſalem,</hi> who were called by <hi>Abſalom,</hi>
+                  <note place="margin">2 Sam. 15.11.</note> and went in their ſimplicity, and knew nothing.</p>
+               <p>Others labouring to ſatisfie themſelves in this buſineſs, began at the wrong end; troubling themſelves with the curious parti<g ref="char:EOLhyphen"/>culars, cloſe lockt up in the Cabinet of Praedeſtination: of which God never lent any man a Key, nor made him a ſchedule. Con<g ref="char:EOLhyphen"/>ſolatory arguments for weak ſouls are not to be drawn from Gods ſecret counſel; but from the apparent fruits of their ele<g ref="char:EOLhyphen"/>ction, and the promiſes of his ſuperabundant grace and mercy.</p>
+               <p>The men of <hi>Bethſhemech</hi> had been ſafe,<note place="margin">2 Sam. 6.19.</note> had they not been preſumptuouſly curious; and they gate nothing by prying into the Ark, but the deſtruction of fifty thouſand, threeſcore and ten perſons. And the raſh handling of predeſtination (it may juſtly be feared) hath been the ruine of many thouſands.</p>
+               <p>Briefly to the point; let every man examine his heart for faith; his life for obedience. The beſt aſſurance is hid, and it is within a man; as the late Arch-Biſhop of <hi>Canterbury</hi> ſaid at his Mar<g ref="char:EOLhyphen"/>tyrdom.</p>
+               <p>Men know that Jeſus Chriſt is in them,<note place="margin">2 Cor. 13.5.</note> except they be repro<g ref="char:EOLhyphen"/>bates. He that hath faith and charity, cannot be without hope. He that believes in Chriſts merits; endeavours to live after his Commandments; hath a zeal for his glory; a love to all men, and eſpecially to the houſhold of faith; and a conſtant ſence and ſorrow for his own failings: ſuch a one makes his calling ſure.</p>
+               <p>The rejoycing of the Apoſtle,<note place="margin">2 Cor. 1.12.</note> and of his fellows, was the te<g ref="char:EOLhyphen"/>ſtimony of their conſcience; and ſo it will be every good mans. Whom conſcience makes to rejoyce, all the world cannot much afflict; but whom conſcience torments, all the world cannot caſe.<note place="margin">Heb. laſt. v. 18.</note> And this is a ſign of a good conſcience, when men are willing in all things to live honeſtly.</p>
+               <p>This is the plain mans plain way to come by an aſſurance of his calling. It is too voluminous a task for me at this time, and too buſie at any other, (and perhaps more conſounding than e<g ref="char:EOLhyphen"/>difying to the generality) to produce ſixteen or ſeventeen proofs and marks of an effectual calling. I humbly conceive (with all due reſpect to perſons of vaſt abilities) that a man may go a near<g ref="char:EOLhyphen"/>er,
+<pb n="17" facs="tcp:106176:11"/>and a more direct way; and to this purpoſe, I crave leave to tell a ſtory, and that a true one, upon my own knowledg.</p>
+               <p>There was ſometimes in this County a certain Clergy-man, (and I pray God there be not now too many ſuch in this Nation) who loved to follow the Law, more than to Preach the Goſpel; and for his delight in contention, might have been ſirnamed <hi>Norfolk.</hi> He was exceedingly proud, covetous, and malicious; and the miſchief was, the curſt beaſt had long hornes: for he was very rich. And as the greateſt Clerks are not alwayes the wiſeſt men: ſo he being one of the wiſeſt men (as wiſe men go now adayes) was none of the greateſt Clerks. This man had to his ſervant a near Kinſman, very poor, and very ingenuous; whoſe propinquity of relation, made his Uncle the more bold with him, to make him a ſlave, according to the mode of wretched world<g ref="char:EOLhyphen"/>lings. This Uncle Parſon, with fair words and ſtrong deluſions, made his Nephew man ſpider-like, even work out his heart and bowels, to encreaſe the muck heap, and fill the bag. For why ſhould he not believe his Uncle, promiſing him a good part of the fruit of his hands, ſeeing God had denyed his Uncle the fruit of his own body? But ſee the event; the Uncle makes his Will, diſpoſeth his Eſtate into many hands, and dyeth; and the poor drudge, this Kinſman, was turn'd off, with his labour for his pains.</p>
+               <p>It chanced after a long time, this poor man among others, being at a neighbour Gentlemans houſe, one of the company (for want of better diſcourſe) asked him, (as uſually they ſpeak of the dead) how long ſince God called his Uncle? Alas (ſaid he) you are miſtaken; God never called my Uncle at all. For my Uncle did often vow, and proteſt, and call God to witneſs, that whenſoever God called him, I ſhould be made much the bet<g ref="char:EOLhyphen"/>ter for him; But, I was never yet the better for him one penny in this world: And, therefore I am ſure God never called him.</p>
+               <p>There is an argument <hi>ab effectu,</hi> or, <hi>à conſequente;</hi> a plain ar<g ref="char:EOLhyphen"/>gument of a plain fellow. And now I would have all my brethren, and countreymen examine their calling, by the correſpondence of their actions, with their ſacred and civil proteſtations, obligati<g ref="char:EOLhyphen"/>ons and engagements: And then I believe they will find, that the poor Kinſman in this point, may paſs for a ſound Logician, and a good Divine.</p>
+            </div>
+            <div type="part">
+               <pb n="18" facs="tcp:106176:12"/>
+               <head>Conſcience, Conſcience; all the world for a Good Conſcience; have a care of a Tender Conſcience; And let us have Liberty of Conſcience.</head>
+               <p>THeſe be the cries of the preſent times; like thoſe of <hi>London,</hi> up ſtreet and down: And I pray God there be not as much a cheat in them.</p>
+               <p>The large reign of hypocriſie, now unmasked by inordinate licentiouſneſs, hath made many think, that there is not, nor ought to be any ſuch thing, as conſcience. But they will one day find, becauſe they have not cheriſhed it as a lamb in their boſome, it will tear them like a vulture at the heart.</p>
+               <p>Conſcience; the word and the thing is as it is uſed; like <hi>Ae<g ref="char:EOLhyphen"/>ſops</hi> tongues: the beſt and the worſt diſh at the table. Men of merry hearts; or according to the Hebrew, men good at the heart;<note place="margin">Prov. 15.15.</note> or, as S<hi rend="sup">t</hi> 
+                  <hi>Hierom</hi> reads, men of a quiet mind; ſuch have a continual feaſt.</p>
+               <p>This <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, conſcience is <hi>maximum in minimo,</hi> the great<g ref="char:EOLhyphen"/>eſt thing in a little, as <hi>Periander</hi> ſaid. It is a true glaſs, giving the true reflection of all objects and colours, without counter<g ref="char:EOLhyphen"/>feit or flattery. Conſcience under God is All in All in the Iſle of Man. It is a Judge holding an Aſuzes within every man, and gi<g ref="char:EOLhyphen"/>ving ſentence without partiality; it is a thouſand witneſſes giv<g ref="char:EOLhyphen"/>ing true evidence concerning the matter of fact, ſpeech or cogi<g ref="char:EOLhyphen"/>tation; it is a Serjeant either to plead or implead according to e<g ref="char:EOLhyphen"/>quity, and that freely without money; and it is an Executioner to torment and deſtroy without mercy.</p>
+               <p>The dominion of conſcience reacheth through all Nations, <hi>Jews</hi> and <hi>Gentiles.</hi>
+                  <note place="margin">Rom. 12.15.</note> Heathens are ſubject to it; <hi>Their conſcience alſo bearing them witneſs, and their thoughts the mean while, ei<g ref="char:EOLhyphen"/>ther accuſing or excuſing one another.</hi> And as conſcience reigneth farre; ſo there is no power, or juriſdiction above it, but that of God himſelf. Conſcience is the Jury of life and death; and there is ſmall hope, that the Judge will ſave them, whom con<g ref="char:EOLhyphen"/>ſcience ſmally caſteth off,<note place="margin">Joh. 3.20.</note> 
+                  <hi>If our heart condemn us, God is greater than our heart, and knoweth all things. If our heart condemn us not, then have we confidence towards God, doing
+<pb n="19" facs="tcp:106176:12"/>thoſe things that are pleaſing in his ſight.</hi>
+               </p>
+               <p>Now there being nothing in this world better than a good conſcience; and nothing worſe than a bad one: it will be a mans great buſineſs, to know how a good conſcience is gotten, and how kept.</p>
+               <p>Every one by nature, and in the ſtate of corruption, hath an evill, a deadly, and a filthy conſcience. And therefore primari<g ref="char:EOLhyphen"/>ly a good conſcience, and a pure and lively is obtained by the bloud of Jeſus Chriſt, and by faith in his merits.</p>
+               <p>
+                  <hi>The bloud of Jeſus Chriſt, who through the eternal Spirit,</hi>
+                  <note place="margin">Heb. 9.14.</note> 
+                  <hi>offered himſelf without ſpot to God, doth purge a mans conſcience from dead works, to ſerve the living God.</hi>
+               </p>
+               <p>And theſe words, <hi>[To ſerve the living God,]</hi> as they denote the true end wherefore Chriſt by his bloud did make our con<g ref="char:EOLhyphen"/>ſciences pure and good; ſo they ſhew us the right means of keeping and preſerving a pure and a good conſcience: namely, by ſerving the living God. His ſervice is perfect freedome, and his ſervice is taught us in the Moral Law, the Ten Commandments, which ſet forth our duty towards God, and towards man. And beyond this holy Rule, or contrary to it, there cannot be any ſuch thing as Chriſtian liberty, or liberty of conſcience.</p>
+               <p>Herein did the Apoſtle exerciſe himſelf,<note place="margin">Act. 24.16.</note> to <hi>Have alwayes a conſcience void of offence, towards God and towards men.</hi> And he that is ſo exerciſed, hath a tender conſcience. And whatſoever is not repugnant unto ſome part of the Law of God contained in the Ten Commandments, (though perhaps it may go againſt mens humours and fancies) cannot be ſaid to be againſt conſci<g ref="char:EOLhyphen"/>ence; and ſo neither againſt Chriſtian liberty: becauſe the divine Commandment is a perfect Law of liberty.<note place="margin">Ja. 1.25.</note>
+               </p>
+               <p>No queſtion, it is a great ſin to tyrannize over poor ſouls, and to impoſe upon mens conſciences, things to make them ſtumble, to weaken their faith,<note place="margin">Rom. 14.21. 1 Cor. 8.9.</note> and to corrupt their judgements and man<g ref="char:EOLhyphen"/>ners: And God forbid that any ſhould do ſo.</p>
+               <p>But all perſons pretending conſcience, before they profeſs pub<g ref="char:EOLhyphen"/>lick diſſent from the Injunctions, Canons, and Conſtitutions of Authority, ſhould do well to be of a ſure ground, that the things they diſſent from their brethren in, are demonſtratively of ſuch a nature: otherwiſe their liberty will appear, to be but a cloak of maliciouſneſs; and that they preferre their own private
+<pb n="20" facs="tcp:106176:13"/>conceits, and perverſe humours, before either the peace of the Church, or Gods honour. And ſurely, as all ſinne defiles the conſcience: ſo none more than a ſchiſmaticall uncharitable<g ref="char:EOLhyphen"/>neſſe.</p>
+               <p>I could never yet ſee, (nor any other man I believe) by what analogy, or rationall argumentation, the diſcourſe of S<hi rend="sup">t</hi> 
+                  <hi>Paul</hi> to the <hi>Romanes</hi> perſwading to indulge the weak brethren about dayes and meats, or that of his to the <hi>Corinthians,</hi> about eating things offered to idols, could be made, (as many would have it) a common place againſt all order and diſcipline in the Chriſtian Churches. For the Apoſtle in the one dealt about Judaiſme, and in the other concerning Gentiliſme and Paganiſh Idolatry. And either of thoſe bear as little reference, or likeneſs to our Wor<g ref="char:EOLhyphen"/>ſhip of God, and Orders in the Church; as there is concord be<g ref="char:EOLhyphen"/>tween Chriſt and <hi>Belial,</hi> or as there is coherence in our adverſa<g ref="char:EOLhyphen"/>ries diſcourſes.</p>
+               <p>There were in thoſe Churches <hi>Jews</hi> and <hi>Gentiles</hi> mixed; and many of the new converts of the <hi>Jews</hi> did ſtill retain ſome of the Moſaicall obſervations, and could not ſuddenly be weaned from them; and ſome of the <hi>Gentile</hi> converts alſo had ſome ſmacks and ſentiments of their old ſuperſtitions. And the Apoſtle advi<g ref="char:EOLhyphen"/>ſed and enjoyned the more perfect and well grounded Chriſtians, to favour the others as much as lawfully they might, and not to be bitter againſt them for their infirmities.</p>
+               <p>But the Apoſtle dealt not ſo with <hi>Hymeneus</hi> and <hi>Alexander;</hi>
+                  <note place="margin">1 Tim. 1. v. laſt. Tit. 1.11.</note> nor yet doth he adviſe <hi>Titus</hi> to deal ſo gently with the ſeducers in <hi>Crete,</hi> who ſubverted whole houſes. And ſurely a gentler hand is to be carried toward new converts, than to inveterate refra<g ref="char:EOLhyphen"/>ctarians, and wilfull Apoſtatas. Let conſcience (in the Name of God) have its liberty: But then let that liberty have a conſci<g ref="char:EOLhyphen"/>ence.</p>
+               <p>Men make much talk of tender conſciences; but it is (for the moſt part) but a talk: <hi>Jacobs</hi> voice and <hi>Eſaus</hi> hands. <hi>Quid verba audio, cùm facta video?</hi> Men ſhew their conſcience, as well as their faith, by their works.</p>
+               <p>I believe <hi>Abraham</hi> had a tender conſcience;<note place="margin">Gen. 13.</note> becauſe for peace-ſake he gave way to his inferiour: But I cannot think ſo of <hi>Corah</hi> and his party;<note place="margin">Numb. 16.</note> becauſe they oppoſed their betters.</p>
+               <pb n="21" facs="tcp:106176:13"/>
+               <p>
+                  <hi>Abrahams</hi> conſcience could not vary from his oath, to take from the King of <hi>Sodom,</hi>
+                  <note place="margin">Gen. 14.</note> 
+                  <hi>ſo much as a threed or a ſhoe-latchet:</hi> But I remember who ſware, and forced others to ſwear hand over head; by vertue of which oath they ſcarce left the King or his loyall Subjects, the worth of a threed, or a ſhoe<g ref="char:EOLhyphen"/>latchet.</p>
+               <p>I believe <hi>David</hi> had a tender conſcience;<note place="margin">1 Sam. 24.5.</note> 
+                  <hi>becauſe his heart ſmote him for cutting off Sauls skirt:</hi> But I dare ſay, <hi>Baanah</hi> and <hi>Rechab</hi> had not ſo, <hi>becauſe they ſlew Iſhboſheth, and cut off his head at his own houſe.</hi>
+                  <note place="margin">2 Sam. 4.4.</note>
+               </p>
+               <p>I am fully perſwaded <hi>Joſiah</hi> had a tender heart and a good conſcience;<note place="margin">2 Chron. 34. &amp; Chap. 35.</note> 
+                  <hi>becauſe be reſtored the worſhip of God, wept at the read<g ref="char:EOLhyphen"/>ing of the Law, and ſet the Prieſts and Levites in their places and charges.</hi> But I am ſure <hi>Jeroboam</hi> had an evil heart, and a bad con<g ref="char:EOLhyphen"/>ſcience; <hi>becauſe he corrupted the worſhip of God, and made Prieſts of the baſeſt of the people.</hi>
+                  <note place="margin">1 King. 13.33.</note>
+               </p>
+               <p>The conſcience of the Saints in <hi>Davids</hi> time, led them <hi>to wor<g ref="char:EOLhyphen"/>ſhip, fall down, and kneel before the Lord their maker.</hi>
+                  <note place="margin">Pſ. 95.</note> Many tell us now, their conſcience will not ſuffer them to do ſo. Then their conſcience did prompt them unanimouſly <hi>to go up together into the houſe of the Lord:</hi>
+                  <note place="margin">Pſ. 122.</note> Now conſcience is pleaded againſt coming thither.</p>
+               <p>In S<hi rend="sup">t</hi> 
+                  <hi>Pauls</hi> dayes conſcience taught men to be <hi>ſubject to Magi<g ref="char:EOLhyphen"/>ſtrates,</hi>
+                  <note place="margin">Rom. 13.5. Tit. 3.1. 1 Pet. 2.13. Heb. 13.17.</note> and <hi>to be ready to every good work;</hi> to <hi>ſubmit themſelves to every Ordinance of man for the Lords ſake; and to obey them that had the ſpiritual rule over them, and watched for their ſouls:</hi> Now conſcience is only named by a great many, to ſhift off all duty, and to affront all Authority.</p>
+               <p>What? an Antidote againſt <hi>Caeſar?</hi> Shall we have conſcience againſt conſcience? Conſcience againſt God? Conſcience againſt Godlineſſe? Conſcience againſt publick worſhip? Conſcience againſt Common-prayers? Conſcience againſt Baptiſm and the Lords Supper? <hi>O tempora! O mores!</hi>
+               </p>
+               <p>And how long ſhall the world be deluded? Is it not apparent, that the chief ſticklers for licentiouſneſſe under the name of Li<g ref="char:EOLhyphen"/>berty of conſcience, when the power was in their hand, did nei<g ref="char:EOLhyphen"/>ther uſe conſcience, nor grant liberty to them that were truly conſcientious? By the liberty they then took, we may know what liberty they now ſeek; and by the conſcience they did then
+<pb n="22" facs="tcp:106176:14"/>uſe, what indulgence they now deſerve.</p>
+               <p>In Eccleſiaſtical, as well as in martial Diſcipline, it will hard<g ref="char:EOLhyphen"/>ly be granted to erre twice. And ſurely, that God who once delivered us into the hands of our enemies, and in great mercy hath ſet us free; will hardly do it the ſecond time, in caſe we wilfully ſuffer our ſelves to be again captivated, by their feigned words, of whom we have had ſo late, and ſo wofull ex<g ref="char:EOLhyphen"/>perience.</p>
+               <p>And I pray God guide his ſacred Majeſty, that their ſerpen<g ref="char:EOLhyphen"/>tine charmes may never ſo far impoſe upon his gracious Lenity; as that he ſhould believe their conſciences tender, who ſtrain at Gnat-ſcruples, and ſwallow Camel-ſins; who ſtumble at ſtraw<g ref="char:EOLhyphen"/>ceremonies, and leap over block villanies.</p>
+               <p>When no conſcience was practis'd, then no plea was heard for it: But now that God hath begun graciouſly to ſhine upon the Church and Kingdom; now begins the clamour of tender con<g ref="char:EOLhyphen"/>ſcience to play the ſecond part.</p>
+               <p>There is no ſurer way to diſcover every mans diet, manners, and appetite, than to make every man his own Car<g ref="char:EOLhyphen"/>ver. And (as I remember) this courſe hath been once taken to purpoſe.</p>
+               <p>Alas poor weak brethren, and tender conſciences! It is pity that ever a pair of Lawn-ſleeves ſhould hurt them; who could well digeſt the ſoil of the Revenues of the Antichriſtian Biſho<g ref="char:EOLhyphen"/>pticks, and make no bones of the Churches patrimony. Alas, that ever a Surplice and a hood ſhould choke thoſe pure Levites, that have lately ſwallowed down Churches and Steeples, Parſo<g ref="char:EOLhyphen"/>nages and Vicarages, Glebes and Tythes, and eat up man, wo<g ref="char:EOLhyphen"/>man and child, as faſt as they did the Tythe-pigs! Fie upon it, who would be troubled with ſuch a conſcience? What? ſteal a Gooſe, and ſcruple a feather? Oh the tender conſcience of a pack of Committees, and a bundle of Sequeſtrators! Oh the mercy and tender pity of a Wolf, a Tyger and a Bear! From all theſe kinds of beaſts, wild and tame, <hi>Libera nos Domine, Good Lord deliver us: And let all the people ſay, Amen.</hi>
+               </p>
+               <p>Suppoſe I ſhould go to a friends houſe, and carry with me ſuch a companion as <hi>Wood</hi> the great eater of <hi>Kent</hi> was, and ſhould deſire my friend to take ſpecial care of him, and let him have that which is pure and of light digeſtion; for the man hath
+<pb n="23" facs="tcp:106176:14"/>but a feeble ſtomack (forſooth) a very weak appetite, and any thing that is groſſe might endanger his life: And my weak na<g ref="char:EOLhyphen"/>tur'd Gueſt ſhall call for, and eat up a fat ſheep of ſixteen ſhil<g ref="char:EOLhyphen"/>lings price at a meal or thirty couple of Rabbets; and ſo ſhould do three or four meals; and ſtill I ſhould deſire my friend to have a great care of him, telling him, that the man hath a very poor ſtomack, and is but weak and tender, whatſoever he thinks on him. Would not my friend (think you) be ready to kick me and my Gueſt out of doors? Would he not tell me that I were ei<g ref="char:EOLhyphen"/>ther mad or worſe? And that I either went about to play the fool or the knave?</p>
+               <p>And as much may ſome body ſay to them, who labour to per<g ref="char:EOLhyphen"/>ſwade men of their tender conſciences, who have murder'd the innocent, devoured the fatherleſſe and widows, drank the bloud of Nobles, pickled upon the carcaſſe of a Church, and made a merry meal of a Kings head. He that loves God, the King, the Church, the Countrey and himſelf, let him never ſpeak a word of theſe mens tender conſciences.</p>
+               <p>It pitieth my heart to think, into what ſtrange Labyrinths many gangs of people were led by their admired Teachers, who tickled their ears with a pleaſing ſound of conſcience, and tender<g ref="char:EOLhyphen"/>neſſe, and ſelf-denial, and getting acquaintance with Chriſt, and a glorious liberty, and the like; whileſt by their omiſſion, connivence and palliation, they lull'd them into a ſecurity, and caſt them into a deadly ſlumber of Rebellion, and diſobedience, ſchiſm and uncharitableneſſe. Was not this to clap a plaiſter up<g ref="char:EOLhyphen"/>on a feſtered place, and never to ſearch or cleanſe the wound? Mi<g ref="char:EOLhyphen"/>ſerable comforters are all ſuch. <hi>Oh let the righteous ſmite us friend<g ref="char:EOLhyphen"/>ly, and reprove us;</hi> but let not ſuch precious balms break our heads.</p>
+               <p>Such Paſtors give a poor ſoul, as much ſatisfaction, as Pope <hi>Martin</hi> gave the <hi>Sicilian</hi> Embaſſadors, to whom thrice praying, <hi>Aguus Dei, qui toll is peccata mundi, miſerere nobis: Oh Lamb of God which takeſt away the ſins of the world, have mercy on us:</hi> He thrice anſwered, <hi>Ave Rex</hi> Judaeorum, <hi>&amp; dabant illi alapas, Hail King of the</hi> Jews, <hi>and they ſmote him on the face.</hi> Had his Holineſſes hand gone with his tongue, giving each of them a round box on the ear, they ſhould have been as much be<g ref="char:EOLhyphen"/>holding to him, as the men of <hi>Gotham</hi> were to the Gentle<g ref="char:EOLhyphen"/>man,
+<pb n="24" facs="tcp:106176:15"/>who reſtored their loſt man, ſuppoſed to be drown'd, by giving them every one a ſound blow on the back with a Cudgel.</p>
+               <p>There will be but little conſcience made of any Laws Civil or Eccleſiaſtical, or reſpect had to Magiſtrate or Miniſter, ſhould Authority grant Diſpenſations to the prejudice of its own honour, and to the rebatement of the vigour of injun<g ref="char:EOLhyphen"/>ctions, as faſt as ſome men will forge cavils, and make pre<g ref="char:EOLhyphen"/>tenſions.</p>
+               <p>The fellow that was bitten by the legs, thought the City mad<g ref="char:EOLhyphen"/>ly order'd, where ſtones were tied up, and dogs let looſe: But that Nation ſhould be worſe, where Doves ſhould be puniſht, and Crows ſet free; where the peaceable and tractable ſhould be circumſcribed, and proſcribed by penalties, and the extrava<g ref="char:EOLhyphen"/>gant and perverſe indulged by faculties.</p>
+               <p>The Chriſtian Prince, who ſhall be perſwaded to let looſe his people to their own will-worſhip, may pull down all the Church<g ref="char:EOLhyphen"/>es in his Dominions, and hang up the Prieſts. But God be thank<g ref="char:EOLhyphen"/>ed, who hath given our gracious Sovereign another manner of heart, and a diſcerning ſpirit, to know both from the word of God, and from ſad experience, that as in thoſe dayes <hi>when there was no King in Iſrael,</hi>
+                  <note place="margin">Jud. laſt.</note> 
+                  <hi>every man did that which was right in his own eyes:</hi> So in theſe dayes, to let every man do that which is right in his own eyes, will ſoon make again no King in <hi>Iſrael.</hi>
+               </p>
+               <p>
+                  <hi>William</hi> the Conquerour took the right courſe to make a ſor<g ref="char:EOLhyphen"/>reſt, when he ruinated and laid waſte the Churches and Chap<g ref="char:EOLhyphen"/>pels; but I dare not commend his project, becauſe the world hath obſerved two fatal marks ſet upon it, in the loſſe of two ſons of his ſlain therein: the one at his hunting of a Deer; the other by an Arrow ſhot at a Deer, but diverted from its intended ſcope, by a glance on a tree.</p>
+               <p>There is no ſuch ready way to turn a Chriſtian Nation in<g ref="char:EOLhyphen"/>to a Wilderneſſe, and the people into wild beaſts; as by laying waſte the places of Gods worſhip, and making them deſolate. But who ſo ſhall attempt it, may juſtly fear to be ſmitten with the keen Arrows of the Almighty, both in perſon and poſterity; yea, and to be deſtroyed, even by thoſe brute creatures, which they ſhall nouriſh and cheriſh to Gods diſhonour.</p>
+               <pb n="25" facs="tcp:106176:15"/>
+               <p>And therefore as ſome people would have the King giveli<g ref="char:EOLhyphen"/>berty to all mens conſciences; (which is impoſſible where conſciences look ſo many contrary wayes) ſo I hope their Civility will give them to ſuppoſe, that of all conſciences, his Majeſty will be moſt tender of his own. And then, they may be well aſſured, that he will never grant any thing prejudicial to that Faith, whereof he writes himſelf Defend<g ref="char:EOLhyphen"/>er; or to that Church, whereof God hath made him the nurſing Father.</p>
+               <p>And moſt infallibly, it would conduce more to the glory of God, and the Nations happineſſe, that all the Subjects would rather look to the exactneſſe of their own conſciences, then to preſſe ſo much upon their gracious Sovereigns, to increaſe their own remiſſneſſe. This would be a work, that would ſave the King much labour, and his Honourable Parliament many an hours conſultation.</p>
+               <p>And in Gods name, where judgment by divine appointment muſt begin, there let conſcience begin alſo; <hi>at the houſe of God.</hi>
+                  <note place="margin">1 Pet. 4.17.</note> Let thoſe whom he hath appointed over his houſhold, as faith<g ref="char:EOLhyphen"/>full <hi>Stewards of the manifold grace of God,</hi> give unto thoſe under their charge, their ſouls meat in due ſeaſon; that they may be found <hi>hoc agentes,</hi> ſo doing: that the Miniſtry may not be blamed, by reaſon of blame-worthy Miniſters. Let them value the flock more than the fleece; and know, that if <hi>Jacob</hi> for twenty years together,<note place="margin">Gen. 31.38. &amp; 40.</note> 
+                  <hi>was conſumed</hi> (as he ſaid) <hi>with the ſcorching heat by day, and the ſharp froſt by night, and the ſleep of his eyes departed from him;</hi> and all to ſave the brute creatures of his uncle <hi>Laban:</hi> then the pains cannot be ſmall, the care cannot be little which muſt be taken, nor the accompt eaſe which muſt be given up to Chriſt, by the Paſtours,<note place="margin">Act. 20.28.</note> for that immor<g ref="char:EOLhyphen"/>tal flock of ſouls, which he hath purchaſed with his own bloud.</p>
+               <p>They had need be thrice well aſſured, that they love Chriſt, who undertake to feed his Sheep and Lambes,<note place="margin">Joh. 21.</note> ſeeing he made S<hi rend="sup">t</hi> 
+                  <hi>Peter</hi> make a three-fold profeſſion of his ſincere af<g ref="char:EOLhyphen"/>fection.</p>
+               <p>Fidelity and dexterity muſt be reſulgent in the Paſtours, that they may feed Sheep and Lambs; have milk for babes, and ſtronger meat for men: And that they may teach their people
+<pb n="26" facs="tcp:106176:16"/>to the liſe, their life muſt teach their people. To the pray<g ref="char:EOLhyphen"/>ers of faith, and Word of truth, they muſt adde the live<g ref="char:EOLhyphen"/>ly Oracles of Charity: for as with ſuch performances the poor are benefited, and with ſuch examples the Church is profited;<note place="margin">Heb. 13.16.</note> 
+                  <hi>So with ſach Sacrifices God is well pleaſed.</hi>
+               </p>
+               <p>They had need above all things <hi>put on charity,</hi>
+                  <note place="margin">Col. 3.14. Lu 12.15.</note> and <hi>take heed and beware of covetouſneſſe;</hi> whom God hath taught ſo to teach others. Let them not climb into the Fold, and make a ſhift to get into the Church,<note place="margin">2 Cor. 11. laſt.</note> as S<hi rend="sup">t</hi> 
+                  <hi>Paul</hi> did to get out of <hi>Damaſcus,</hi> at a window, in a basket: Nor like <hi>Arioſto's</hi> young ſhaveling, with three ends of Latine, a letter of Command, and the Devil in a bag. S<hi rend="sup">t</hi> 
+                  <hi>Auguſtine</hi> did not love to ſee men paſſe, <hi>per laicalem por<g ref="char:EOLhyphen"/>tam,</hi> by a back door.</p>
+               <p>And as the unworthy ſhould ſtudy to deſerve, before they aſpire at preferment; ſo conſcience ought to rule the moſt wor<g ref="char:EOLhyphen"/>thy, both informing them when they have enough; and ſignify<g ref="char:EOLhyphen"/>ing to them, that it is poſſible for them to have too much of this worlds honour, wealth, and dignity. And then (as the Herdſman ſaid) <hi>If the Devil get the Duke, what ſhall become of the Arch<g ref="char:EOLhyphen"/>biſhop of</hi> Colen?</p>
+               <p>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>t honos, it à onus;</hi> as the honour and emolument increaſeth, ſo ſhould the Paſtors care, his pains, his diligence; otherwiſe the world will eaſily ſee, that pride and covetouſneſſe are the only qualifications: two qualities as commendable in a man of the Church, as thoſe I once heard a plain Countreyman give a Knights Tobacco; who being asked his approbation, anſwered, <hi>Your Worſhips Tobacco is excellent good; for it hath the two right properties of Tobacco; it makes a great ſmoke, and a filthy ſtink.</hi>
+               </p>
+               <p>Pluralities and unions came into being and faſhion in the Chriſtian Church, by ſad miſchances; As by depopulations, ſpoils and invaſions made by prevalent <hi>Barbarians,</hi>
+                  <note place="margin">Hiſt. Conc. <hi>Trid.</hi>
+                  </note> and hoſtile Adverſaries; and their intendment, <hi>ex parte Eccleſiae,</hi> was in fa<g ref="char:EOLhyphen"/>vour and benefit of the generality of ſouls, and not deſigned for the meer advance of particular perſons wealth and dignities. And let not the Rivers rob the Sea; nor the main end be loſt in the purſuit of the leſſe principal.</p>
+               <p>There are (no queſtion) double Honours due to the Reverend
+<pb n="27" facs="tcp:106176:16"/>Eccleſiaſticks, but they muſt be ſuch <hi>as rule well, and especially labour in the Word and doctrine.</hi> And God increaſe ſuch men,<note place="margin">1 Tim. 5.17.</note> and their Honours, to his own Glory, and his Churches hap<g ref="char:EOLhyphen"/>pineſſe.</p>
+               <p>And as Conſcience doth well in the Incumbent; ſo likewiſe in the Patron: <hi>For were there no Receivers, there would be no Thieves.</hi> It was never Chriſts mind (ſurely) that <hi>Simon Magus</hi> ſhould have to do with thoſe Keyes, which he gave to <hi>Simon Peter.</hi> But there are ſuch Patrons now in the world, (or Latrons ra<g ref="char:EOLhyphen"/>ther) that if S<hi rend="sup">t</hi> 
+                  <hi>Peter</hi> himſelf ſhould come to them for a pre<g ref="char:EOLhyphen"/>ſentation, in the words he uſed to the Creeple, <hi>Silver and Gold have I none;</hi> They would ſoon bid him, <hi>Walk,</hi>
+                  <note place="margin">Act. 3.</note> 
+                  <hi>and be gone. Thou that abhorreſt Idols, doſt thou commit Sacri<g ref="char:EOLhyphen"/>ledge? And thou that teacheſt a man ſhould not ſteal,</hi>
+                  <note place="margin">Rom. 2.</note> 
+                  <hi>doſt thou ſteal?</hi>
+               </p>
+               <p>Well fare the reſolution of the Emperor <hi>Severus,</hi> no leſſe prudent, than noble; who would never ſuffer preferments to be bought: <hi>Becauſe</hi> (ſaid he) <hi>they who buy will ſell.</hi> And ſo they will ſell indeed (when opportunity ſerveth) their place, their of<g ref="char:EOLhyphen"/>fice, themſelves, and their Benefactors.</p>
+               <p>And conſcience would do well at Court too, among Lords and Ladies, except it be either out of faſhion for its antiquity; or too mean, as being worn by poor <hi>Plebeians.</hi> They who wear ſoft raiment, and are in Kings houſes, in Princes favours, and profitable Offices, ſhould do well to think upon thoſe, who want cloaths and habitations; of whom not a few (per<g ref="char:EOLhyphen"/>haps) for merit and vertues might have vied with many of them, had not Fortune parted them with a bare pair of ſheers.</p>
+               <p>They ſhould do well (and God expects it at their hands) to promote, and further ſuch perſons ſuits and ſupplications <hi>gratis;</hi> and not to be like Vultures ready to ſeize upon the dying, and as brambles to rend off their skins, whoſe fleece was gone long before.</p>
+               <p>What ſhall men be all complements, and no conſcience? God deliver us from ſuch a high point of breeding, as to deſpiſe the poor, or to forget our friends, old acquaintance, and their good offices.</p>
+               <p>I once knew (I do not propound him for imitation) a Gen<g ref="char:EOLhyphen"/>tleman
+<pb n="28" facs="tcp:106176:17"/>Penſioner to that glorious Prince of ever bleſſed memory King <hi>Charles</hi> the Firſt (that good King had too many ſuch ſer<g ref="char:EOLhyphen"/>vants) who having been oft liberally entertained, and adored by a ſimple honeſt Countrey-man; as often profeſſed, binding himſelf with deſperate oaths (whereof he had alwayes a great ſtock at command) to do him remarkable favours upon all occa<g ref="char:EOLhyphen"/>ſions. It fortuned that the Countrey man fell into an unhappy Law-ſuit, which beyond his expectation led him to <hi>Weſtminſter,</hi> where caſually meeting with his old Courtier, who was every mans humble ſervant, and no mans true friend, he took the boldneſſe to ſcrape acquaintance on him, ſuppoſing that he had been the ſame man, he formerly was in the Countrey: But this <hi>Grand Seignior</hi> with an ugly look, and a rough greet, made his modeſt <hi>Gaius</hi> face about, and revoke acquaintance; and having ſo ſhaked him off, he ſaid to a perſon ſtanding by; <hi>Do you ſee this rude impertinent fellow? This Hob-nail-ſlave</hi> (ſaid he) <hi>is ſo ill bred, that he is not able to diſting uiſh between a Gentle<g ref="char:EOLhyphen"/>mans words, and his meaning.</hi>
+               </p>
+               <p>God defend us from ſuch nice diſtinctions, unworthy actions, narrow hearts, and large conſciences.</p>
+               <p>And in all Courts and places of Judicature, conſcience would do exceedingly well, and might befriend many a man, more than a peny in his purſe. Could we ſee the poor mans caſe de<g ref="char:EOLhyphen"/>fended, we ſhould be fully perſwaded, that there were ſuch a thing, as a Court of Equity and Conſcience. But he that ſues <hi>in formâ pauperis,</hi> ſeldome prevails <hi>contrà materiam divitis;</hi> but keeps his old form, it faring with him in his caſe, as with man in his birth and death: <hi>Naked he comes in, and naked he goes out.</hi> Yet we have an <hi>Advocate</hi> General <hi>with God the Fa<g ref="char:EOLhyphen"/>ther, Jeſus Chriſt the Righteous;</hi>
+                  <note place="margin">1 Joh. 2.</note> who ought to be imitated by all Advocates, conſidering no man ſhall be able to plead his own caſe without him: And he takes delight to help the helpleſſe and the oppreſſed; and made himſelf poor to enrich his clyents.</p>
+               <p>I ſhall not deſcend into all particulars, becauſe Inferiours would think it honourable to be conſcientious, might they ſee conſci<g ref="char:EOLhyphen"/>ence honoured by the practice of their Superiours.</p>
+               <p>Oh it is a precious thing to have a good conſcience; as once ſaid a Member of a Court of high Injuſtice. Indeed he was able
+<pb n="29" facs="tcp:106176:17"/>to tell, how good a thing it was, by the want of it; and he knew the price of it, having parted with it upon terms, felling himſelf to work wickedneſs.</p>
+               <p>Thus have I been too long, (and yet not enough) upon this ſubject. I hope, good people will pardon my plainneſs. It is a caſe of conſcience; and when I am in, I love to ſpeak my conſcience.</p>
+            </div>
+            <div type="part">
+               <head>Quarite Deum, Seek God.</head>
+               <p>A Great task, and a general; Catholick for time, place, and perſon: which whoſo performes not, doth nothing; for the man that finds not God is loſt for ever. This duty muſt be exerci<g ref="char:EOLhyphen"/>ſed early, earneſtly, conſtantly and rightly; and where one of theſe circumſtances fail, the ſeeker is deficient in his duty.</p>
+               <p>1. Early. Early in the life; early in the day. <hi>Oh God,</hi>
+                  <note place="margin">Pſal. 63.1. Matth. 6.33.</note> 
+                  <hi>thou art my God, early will I ſeek thee. Seek ye firſt the Kingdom of God, and his righteouſnes.</hi> But the worldlings rule is taken out of the Eth<g ref="char:EOLhyphen"/>nick Poet, <hi>O Cives, Cives, quaerenda pecunia primùm eſt, vir<g ref="char:EOLhyphen"/>tus poſt nummos.</hi> Oh Politicians, Politicians, ſeek ye money be<g ref="char:EOLhyphen"/>fore all things; and let virtue follow after pelf.</p>
+               <p>2. Earneſtly. <hi>Thou ſhalt find him,</hi>
+                  <note place="margin">Deut. 4.29.</note> 
+                  <hi>if thou ſeek him with all thy heart, and with all thy ſoul.</hi> They who ſeek him by halfs, find him not at all; for as God is not divided, ſo will he not be deluded.</p>
+               <p>3. Conſtantly. <hi>Seek the Lord and his ſtrength,</hi>
+                  <note place="margin">Pſal. 105.4.</note> 
+                  <hi>ſeek his face evermore.</hi> Not that we ſhould be ſo ever ſeeking, as never find<g ref="char:EOLhyphen"/>ing; like thoſe ever learning, and never able to come to the knowledge of the truth: But ſo ever ſeeking,<note place="margin">2 Tim. 3.7.</note> as ever finding ſome comfort and contentment, and becauſe ever finding, there<g ref="char:EOLhyphen"/>fore ever ſeeking. For no man ſo well knows the Lord, and his goodneſs; but that he may and ought, every day more and more grow into his knowledg, favour, and acquaintance.</p>
+               <p>4. Rightly. For God will not be found of them that ſeek him indirectly. They that ſeek for glory, and honour,<note place="margin">Rom. 2.7.</note> and immortali<g ref="char:EOLhyphen"/>ty, their way is laid out unto them, through patient continuance in well doing: And at their journeys end is promiſed them, that eternal life. But they that ſeek a contrary way, are there told they ſhall find a contrary thing. <hi>Quaeram te Domine invocans te,</hi>
+                  <note place="margin">Conſ.</note> 
+                  <hi>&amp; invoeem te credens in te,</hi> ſaith S<hi rend="sup">t</hi> 
+                  <hi>Aug.</hi> Oh let me ſeek thee
+<pb n="30" facs="tcp:106176:18"/>(Lord) calling upon thee, and let me call upon thee believing in thee. Indeed, it is in vain for men to honour God with their lips, when their hearts are far from him.</p>
+               <p>And now we cannot but ſadly remember, how this Nation hath been abuſed, with a mock-ſeeking of God, upon all evill oc<g ref="char:EOLhyphen"/>caſions, and wicked enterprizes. We cannot forget what faſt<g ref="char:EOLhyphen"/>ings, prayers, and humiliations we had appointed; and all to ſeek God; that the poor ſilly people might be amazed at the ſound of inchanting words, and made believe, that God by the mouth of mercinary falſe prophets, as by an infallible oracle, did ſpeak clearly in favour of the moſt pernicious practices, and high impieties, that ever were acted amongſt a Chriſtian people.</p>
+               <p>It was not enough to abuſe me; but they muſt needs put tricks upon the Almighty, and intitle him to all manner of villany.</p>
+               <p>For the erecting of arbitrary power, and cutting aſunder the ſinews of Laws and Government; (which are the ſafety of a peo<g ref="char:EOLhyphen"/>ple,) for the pillaging of the ſubject, and ſtripping him of goods and liberty; for the murdering of the innocent and loyall; for the deſtruction of King and people; for the ſubverſion of the Church; for all and every of theſe deſignes, ſtill the word was given out, ſuch a day ye muſt ſeek the Lord.</p>
+               <p>I know not unto what to liken this kind of language, pro<g ref="char:EOLhyphen"/>ceeding out of ſuch mealy mouths, and hollow hearts, but to the canting of <hi>Gypſies</hi> and Cutpurſes; who when they go about to pick mens pockets, have a dialect by themſelves to abuſe the common people, and evade juſtice. And as the Dunce, that his Father put out to Schoole, made Latine for every thing in bombaſt ending in <hi>bus,</hi> and <hi>bas,</hi> and <hi>orum,</hi> and <hi>arum;</hi> ſo theſe men made theſe two words, <hi>[Seek God]</hi> ſerve to ſignifie every thing that the Devil and themſelves projected and acted. When <hi>Saul</hi> ſought his fathers aſſes, he found not them, but he found a kingdom,<note place="margin">1 Sam. 9.</note> beyond his expectation: and the aſſes were found by another hand.</p>
+               <p>Theſe men had ſomething of <hi>Sauls</hi> ſucceſs; for they found a kingdom; though they enjoyed it but a little time: No more did he. But he had a better title; for they had neither Gods, nor <hi>Samuels</hi> word for it, notwithſtanding all their ſeeking. And therefore it is be feared, they loſt a better kingdom in purſuit of this. And this muſt be confeſſed, other mens folly advanced their
+<pb n="31" facs="tcp:106176:18"/>craft, raiſed their eſteem for wiſe men, and therewith their dig<g ref="char:EOLhyphen"/>nity. For had not the Aſſes been found, and brought to their hand; they had never gotten the kingdom. I hope the whole Land hereafter will beware of ſuch ſeekers, and avoid ſuch ſeek<g ref="char:EOLhyphen"/>ing.</p>
+               <p>And what ſhall I more ſay of them? they ſought Chriſt,<note place="margin">Matth. 2.</note> as <hi>Herod</hi> did with his men of war, in hypocriſie, and malice; and not finding him, they murthered and maſſacred the innocent.</p>
+               <p>They ſought God, as the mad fellow in the Fable ſought his Wife, that fell into the River and was drowned. He ſought, and ſought, and raked, and groped; but he went ſuch a way, that he was ſure never to find her; for he went up the River, and ſo alwayes ſought quite againſt the ſtream: ſo theſe men ſought God againſt the ſtream and current of Scriptures, Command<g ref="char:EOLhyphen"/>ments, Laws and Cuſtomes, Canons, Councils, and Fathers, and againſt the practice of all Primitive and Modern Chriſtians. Oh ſeek not death in the error of your life,<note place="margin">Wiſd. 1.12.</note> nor pull upon your ſelves deſtruction by the works of your own hands.</p>
+            </div>
+            <div type="part">
+               <p>THe height of impudence, the depth of maliciouſneſs, the length of wilfullneſs, and the breadth of licentiouſneſs, are the four Dimenſions of a Fanatick body; which hath neither right ſide, nor right end.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
